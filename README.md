@@ -38,10 +38,9 @@ unet_data/
 ├── images/ → processed RGB images (256x256)
 └── masks/ → processed binary masks (256x256)
 
-
 ---
 
-## 🚀 Features
+##  Features
 
 - YOLO polygon → mask image converter  
 - Custom U-Net implementation  
@@ -51,7 +50,7 @@ unet_data/
 
 ---
 
-## 🔧 Technologies Used
+##  Technologies Used
 
 - Python  
 - TensorFlow / Keras  
@@ -62,7 +61,7 @@ unet_data/
 
 ---
 
-## 🧩 Model Architecture (U-Net)
+##  Model Architecture (U-Net)
 
 - Encoder with 32 → 64 → 128 → 256 filters  
 - Bottleneck layer  
